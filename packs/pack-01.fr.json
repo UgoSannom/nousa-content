@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "fr",
+ "version": 1,
+ "title": "Soirées cocon",
+ "description": "30 questions pour les soirées tranquilles à deux.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "Qu'est-ce qui rend une soirée vraiment douillette pour toi ?",
+   "hook": "Le cocon parfait"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "Chocolat chaud, tisane ou autre chose un soir où il fait frais ?",
+   "hook": "Boissons chaudes"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "Quels films pour notre soirée plaid idéale ?",
+   "hook": "Programme ciné"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "Quel souvenir douillet te réchauffe encore le cœur ?",
+   "hook": "Souvenirs au chaud"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "Quelle est ton odeur préférée un jour de pluie ?",
+   "hook": "Odeurs de pluie"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "Qu'est-ce qui t'apaise à la fin d'une longue semaine ?",
+   "hook": "Le calme du vendredi"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "Si on construisait une cabane en couvertures ce soir, on y ferait quoi ?",
+   "hook": "Cabane de couvertures"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "Quel film réconfort pourrais-tu revoir cent fois ?",
+   "hook": "Films doudou"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "Que veut dire « être chez soi » pour toi, un soir calme ?",
+   "hook": "Se sentir chez soi"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "À quel jeu de société ou de cartes aimerais-tu jouer ce soir ?",
+   "hook": "Soirée jeux"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "Que servirait-on dans notre propre « café cocon » ?",
+   "hook": "Notre café cocon"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "Sur quoi aimerais-tu ralentir en ce moment ?",
+   "hook": "Ralentir"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "Bougies, guirlande lumineuse ou feu de cheminée ?",
+   "hook": "Lumières douces"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "Quelle histoire aimerais-tu que je te lise ?",
+   "hook": "Lis-moi une histoire"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "Tes chaussettes de cocooning, elles ressemblent à quoi ?",
+   "hook": "Chaussettes douillettes"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "Quelle recette aimerais-tu qu'on cuisine un soir tranquille ?",
+   "hook": "Recettes du soir"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "Avec moi, quel moment t'apaise le plus ?",
+   "hook": "Moments paisibles"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "Quel est ton son préféré un soir calme ?",
+   "hook": "Sons du soir"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "Si ce soir était une scène de film, quelle en serait la musique ?",
+   "hook": "Musique du soir"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "Quel souci aimerais-tu laisser devant la porte ce soir ?",
+   "hook": "Laisser dehors"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "Qu'aimes-tu le plus dans les soirées pluvieuses ?",
+   "hook": "Soirées de pluie"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "Pour quel petit moment de cette semaine ressens-tu de la gratitude ?",
+   "hook": "Petite gratitude"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "Quel est l'endroit le plus douillet où tu aies fait la sieste ?",
+   "hook": "Siestes douillettes"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Ce soir, tu préfères qu'on parle ou qu'on profite d'un silence complice ?",
+   "hook": "Parler ou se taire"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "Qu'est-ce qui te donne l'impression qu'on prend soin de toi ?",
+   "hook": "Prendre soin"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "Si on hibernait une semaine, on emporterait quoi ?",
+   "hook": "Kit d'hibernation"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "Quelle chanson te fait l'effet d'un plaid tout chaud ?",
+   "hook": "Chansons douces"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "Qu'aimerais-tu me dire ce soir que tu n'as pas dit cette semaine ?",
+   "hook": "Les mots de ce soir"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Invente un nom pour notre prochaine soirée cocon.",
+   "hook": "Baptiser la soirée"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "Notre soirée tranquille parfaite, elle se passe comment, du début à la fin ?",
+   "hook": "La soirée parfaite"
+  }
+ ]
+}

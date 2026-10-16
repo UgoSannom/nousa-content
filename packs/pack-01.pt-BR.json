@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "pt-BR",
+ "version": 1,
+ "title": "Noites aconchegantes",
+ "description": "30 perguntas para noites tranquilas a dois.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "O que deixa uma noite realmente aconchegante para você?",
+   "hook": "O aconchego perfeito"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "Chocolate quente, chá ou outra coisa numa noite de friozinho?",
+   "hook": "Bebidas quentinhas"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "Que filmes não podem faltar na nossa noite ideal de filme e coberta?",
+   "hook": "Programação da sessão"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "Que lembrança aconchegante ainda aquece o seu coração?",
+   "hook": "Lembranças quentinhas"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "Qual é o seu cheiro favorito num dia de chuva?",
+   "hook": "Cheiro de chuva"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "O que traz calma para você no fim de uma semana longa?",
+   "hook": "A calma de sexta"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "Se a gente fizesse uma cabana de cobertores hoje à noite, o que faria lá dentro?",
+   "hook": "Cabana de cobertores"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "Que filme de conforto você conseguiria ver cem vezes?",
+   "hook": "Filmes de conforto"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "O que é \"se sentir em casa\" para você, numa noite tranquila?",
+   "hook": "Sensação de lar"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "Que jogo de tabuleiro ou de baralho você adoraria jogar hoje à noite?",
+   "hook": "Noite de jogos"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "O que serviríamos no nosso próprio café aconchegante?",
+   "hook": "Nosso cafezinho"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "Em que você gostaria de ir mais devagar nestes dias?",
+   "hook": "Ir mais devagar"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "Velas, pisca-pisca ou o barulhinho da chuva lá fora?",
+   "hook": "Luzes suaves"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "Que história você adoraria que eu lesse para você?",
+   "hook": "Leitura em voz alta"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "Você tem uma meia favorita para os dias de frio?",
+   "hook": "Meias quentinhas"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "Que receita você adoraria que a gente fizesse numa noite sem pressa?",
+   "hook": "Receitas sem pressa"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "Que momento comigo traz mais paz para você?",
+   "hook": "Momentos de paz"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "Qual é o seu som favorito numa noite tranquila?",
+   "hook": "Sons da noite"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "Se esta noite fosse uma cena de filme, qual seria a trilha sonora?",
+   "hook": "Trilha sonora de hoje"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "Que preocupação você gostaria de deixar do lado de fora da porta hoje?",
+   "hook": "Deixar lá fora"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "Do que você mais gosta nas noites de chuva?",
+   "hook": "Noites de chuva"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "Por qual pequeno momento desta semana você sente gratidão?",
+   "hook": "Pequenas gratidões"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "Qual foi o lugar mais aconchegante onde você já tirou um cochilo?",
+   "hook": "Cochilos aconchegantes"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Hoje à noite, você prefere conversar ou curtir um silêncio gostoso?",
+   "hook": "Papo ou silêncio"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "O que faz você sentir que alguém está cuidando de você?",
+   "hook": "Cuidado e carinho"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "Se a gente se enfiasse debaixo das cobertas por uma semana, o que levaria?",
+   "hook": "Kit de hibernação"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "Que música é como uma coberta quentinha?",
+   "hook": "Músicas que aquecem"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "O que você gostaria de me dizer hoje que não disse esta semana?",
+   "hook": "Palavras de hoje"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Inventa um nome para a nossa próxima noite aconchegante.",
+   "hook": "Batizar a noite"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "Como seria a nossa noite tranquila perfeita, do começo ao fim?",
+   "hook": "A noite perfeita"
+  }
+ ]
+}

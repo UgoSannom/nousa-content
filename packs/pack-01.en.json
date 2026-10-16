@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "en",
+ "version": 1,
+ "title": "Cozy nights",
+ "description": "30 questions for slow evenings together.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "What makes an evening feel truly cozy to you?",
+   "hook": "Cozy, defined"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "Hot chocolate, herbal tea or something else on a chilly evening?",
+   "hook": "Warm drinks"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "What movies would make our ideal blanket-and-movie night?",
+   "hook": "Movie night lineup"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "What cozy memory still warms your heart?",
+   "hook": "Warm memories"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "What's your favorite smell on a rainy day?",
+   "hook": "Rainy-day smells"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "What helps you feel calm at the end of a long week?",
+   "hook": "End-of-week calm"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "If we built a blanket fort tonight, what would we do inside?",
+   "hook": "Blanket fort"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "What comfort movie could you watch a hundred times?",
+   "hook": "Comfort movies"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "What does \"feeling at home\" mean to you on a quiet evening?",
+   "hook": "Feeling of home"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "What board game or card game would you love to play tonight?",
+   "hook": "Game night"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "What would be on the menu at our very own cozy café?",
+   "hook": "Our cozy café"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "What would you like to slow down on lately?",
+   "hook": "Slowing down"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "Candles, fairy lights or a crackling fire?",
+   "hook": "Soft lights"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "What story would you love me to read to you?",
+   "hook": "Read to me"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "What do your coziest socks look like?",
+   "hook": "Cozy socks"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "What recipe would you love us to cook on a slow evening?",
+   "hook": "Slow-evening recipes"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "What moment with me brings you the most peace?",
+   "hook": "Peaceful moments"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "What's your favorite sound on a quiet evening?",
+   "hook": "Evening sounds"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "If tonight were a movie scene, what would the soundtrack be?",
+   "hook": "Tonight's soundtrack"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "What worry would you like to leave outside the door tonight?",
+   "hook": "Leave it outside"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "What do you love most about rainy evenings?",
+   "hook": "Rainy evenings"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "What small moment from this week are you grateful for?",
+   "hook": "Small gratitude"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "What's the coziest place you've ever taken a nap?",
+   "hook": "Coziest naps"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Tonight, would you rather talk or enjoy a comfortable silence?",
+   "hook": "Talk or silence"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "What makes you feel taken care of?",
+   "hook": "Taken care of"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "If we hibernated for a week, what would we bring?",
+   "hook": "Hibernation kit"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "What song feels like a warm blanket?",
+   "hook": "Warm songs"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "What would you like to tell me tonight that you haven't said this week?",
+   "hook": "Tonight's words"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Invent a name for our next cozy night.",
+   "hook": "Name the night"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "What does a perfect quiet evening with me look like, from start to finish?",
+   "hook": "The perfect evening"
+  }
+ ]
+}

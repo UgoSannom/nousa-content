@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "it",
+ "version": 1,
+ "title": "Serate accoglienti",
+ "description": "30 domande per serate tranquille in due.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "Cosa rende una serata davvero accogliente, per te?",
+   "hook": "Serate nido"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "Cioccolata calda densa, tisana o altro, in una sera fresca?",
+   "hook": "Tazza fumante"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "Quali film sceglieresti per la nostra serata ideale sotto il plaid?",
+   "hook": "Plaid e film"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "Quale ricordo pieno di tepore ti scalda ancora il cuore?",
+   "hook": "Ricordi che scaldano"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "Qual è il tuo profumo preferito in un giorno di pioggia?",
+   "hook": "Profumo di pioggia"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "Cosa ti aiuta a ritrovare la calma alla fine di una lunga settimana?",
+   "hook": "Ritrovare la calma"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "Se stasera costruissimo un fortino di coperte, cosa faremmo lì dentro?",
+   "hook": "Il nostro fortino"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "Quale film del cuore potresti rivedere cento volte?",
+   "hook": "Film del cuore"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "Cosa significa per te «sentirsi a casa», in una sera tranquilla?",
+   "hook": "Sentirsi a casa"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "Briscola, un gioco da tavolo o altro: a cosa vorresti giocare stasera?",
+   "hook": "Carte in tavola"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "Cosa ci sarebbe nel menù del nostro piccolo caffè accogliente?",
+   "hook": "Menù tutto coccole"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "Su cosa vorresti rallentare, in questo periodo?",
+   "hook": "Rallentare"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "Candele, lucine o un camino scoppiettante?",
+   "hook": "Luci soffuse"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "Quale storia vorresti che ti leggessi?",
+   "hook": "Leggimi una storia"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "Come sono i tuoi calzini più comodi da divano?",
+   "hook": "Calzini da divano"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "Quale ricetta vorresti cucinare con me in una serata lenta?",
+   "hook": "Ricetta a fuoco lento"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "Quale momento con me ti dà più pace?",
+   "hook": "Momenti di pace"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "Qual è il tuo suono preferito in una sera tranquilla?",
+   "hook": "Il suono della sera"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "Se stasera fosse la scena di un film, quale sarebbe la colonna sonora?",
+   "hook": "La musica di stasera"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "Quale preoccupazione vorresti lasciare fuori dalla porta stasera?",
+   "hook": "Fuori dalla porta"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "Cosa ami di più delle serate di pioggia?",
+   "hook": "Sere di pioggia"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "Per quale piccolo momento di questa settimana provi gratitudine?",
+   "hook": "Piccole gratitudini"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "Qual è il posto più accogliente in cui hai fatto una pennichella?",
+   "hook": "L'arte della pennichella"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Stasera preferisci che parliamo o che ci godiamo un silenzio complice?",
+   "hook": "Parole o silenzio?"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "Cosa ti fa sentire che qualcuno si prende cura di te?",
+   "hook": "Cure gentili"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "Se andassimo in letargo per una settimana, cosa porteremmo?",
+   "hook": "Modalità letargo"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "Quale canzone ha su di te l'effetto di un plaid caldo?",
+   "hook": "Musica come un plaid"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "Cosa vorresti dirmi stasera che non mi hai detto questa settimana?",
+   "hook": "Da dire stasera"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Inventa un nome per la nostra prossima serata coccole.",
+   "hook": "Un nome per stasera"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "Com'è la nostra serata tranquilla perfetta, dall'inizio alla fine?",
+   "hook": "La serata perfetta"
+  }
+ ]
+}

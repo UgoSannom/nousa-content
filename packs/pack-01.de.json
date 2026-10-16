@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "de",
+ "version": 1,
+ "title": "Gemütliche Abende",
+ "description": "30 Fragen für ruhige Abende zu zweit.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "Was macht einen Abend für dich so richtig gemütlich?",
+   "hook": "Gemütlichkeit, ganz persönlich"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "Heiße Schokolade, Kräutertee oder etwas anderes an einem kühlen Abend?",
+   "hook": "Warme Tassen"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "Welche Filme gehören zu unserem perfekten Kuscheldecken-Filmabend?",
+   "hook": "Das Filmprogramm"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "Welche gemütliche Erinnerung wärmt dir heute noch das Herz?",
+   "hook": "Erinnerungen, die wärmen"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "Was ist dein Lieblingsduft an einem Regentag?",
+   "hook": "Der Duft von Regen"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "Was hilft dir, am Ende einer langen Woche zur Ruhe zu kommen?",
+   "hook": "Endlich Wochenende"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "Wenn wir heute Abend eine Kissenburg bauen: Was machen wir darin?",
+   "hook": "Unsere Kissenburg"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "Welchen Wohlfühlfilm könntest du hundertmal schauen?",
+   "hook": "Wohlfühlfilme"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "Was bedeutet „Zuhause sein“ für dich an einem ruhigen Abend?",
+   "hook": "Das Gefühl von Zuhause"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "Welches Brett- oder Kartenspiel würdest du heute Abend gern spielen?",
+   "hook": "Spieleabend"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "Was stünde auf der Karte unseres eigenen kleinen Wohlfühlcafés?",
+   "hook": "Unser Wohlfühlcafé"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "Wobei würdest du gerade gern einen Gang zurückschalten?",
+   "hook": "Langsamer werden"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "Kerzen, Lichterkette oder ein knisterndes Kaminfeuer?",
+   "hook": "Sanftes Licht"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "Welche Geschichte soll ich dir vorlesen?",
+   "hook": "Lies mir vor"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "Wie sehen deine gemütlichsten Socken aus?",
+   "hook": "Kuschelsocken"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "Welches Rezept würdest du an einem ruhigen Abend gern mit mir kochen?",
+   "hook": "Rezepte für ruhige Abende"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "Welcher Moment mit mir schenkt dir die meiste Ruhe?",
+   "hook": "Friedliche Momente"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "Was ist dein Lieblingsgeräusch an einem ruhigen Abend?",
+   "hook": "Klänge des Abends"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "Wenn heute Abend eine Filmszene wäre: Welche Musik liefe dazu?",
+   "hook": "Die Musik des Abends"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "Welche Sorge möchtest du heute Abend vor der Tür lassen?",
+   "hook": "Draußen lassen"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "Was liebst du am meisten an verregneten Abenden?",
+   "hook": "Regenabende"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "Für welchen kleinen Moment dieser Woche bist du dankbar?",
+   "hook": "Kleine Dankbarkeit"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "Wo hast du je das gemütlichste Nickerchen gemacht?",
+   "hook": "Die gemütlichsten Nickerchen"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Heute Abend lieber reden oder gemeinsam die Stille genießen?",
+   "hook": "Reden oder schweigen"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "Wann hast du das Gefühl, dass jemand gut für dich sorgt?",
+   "hook": "Umsorgt werden"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "Wenn wir eine Woche Winterschlaf hielten: Was nehmen wir mit?",
+   "hook": "Das Winterschlaf-Set"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "Welcher Song fühlt sich an wie eine warme Decke?",
+   "hook": "Songs zum Einkuscheln"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "Was möchtest du mir heute Abend sagen, was du diese Woche noch nicht gesagt hast?",
+   "hook": "Die Worte von heute Abend"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Erfinde einen Namen für unseren nächsten gemütlichen Abend.",
+   "hook": "Den Abend taufen"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "Wie sieht ein perfekter ruhiger Abend mit mir aus, von Anfang bis Ende?",
+   "hook": "Der perfekte Abend"
+  }
+ ]
+}
