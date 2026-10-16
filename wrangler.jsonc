@@ -1,0 +1,9 @@
+{
+  // Site statique servi par Cloudflare Workers (fichiers à la racine du dépôt)
+  "name": "nousa-content",
+  "compatibility_date": "2026-10-13",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
