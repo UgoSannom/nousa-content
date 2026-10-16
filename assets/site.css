@@ -115,7 +115,7 @@ button,select{font:inherit;color:inherit}
 .daily p{font:800 16.5px/1.15 var(--head);width:158px;position:relative}
 .daily .pill{display:inline-flex;align-items:center;gap:4px;background:#fff;color:var(--primary);border-radius:999px;padding:7px 11px;font:700 10px/1 var(--body);margin-top:4px;position:relative;z-index:1}
 .daily .pill svg{width:12px;height:12px}
-.daily .mascot{position:absolute;right:-6px;bottom:4px}
+.daily .mascot{position:absolute;right:2px;bottom:4px}
 .ph-sub{display:flex;justify-content:space-between;align-items:baseline;font:800 12.5px/1 var(--head)}
 .ph-sub span{font:700 9.4px/1 var(--body);color:var(--accent)}
 .ph-modes,.ph-cats{display:flex;gap:8px}
@@ -138,18 +138,19 @@ button,select{font:inherit;color:inherit}
 .qcard p{font:800 19.2px/1.12 var(--head);position:relative;margin-top:28px}
 .qcard .bot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;font-size:8px;line-height:1.35;position:relative}
 .qcard .ring{position:absolute;width:76px;height:76px;right:-22px;top:-22px;border:9.9px solid #fff;border-radius:50%;opacity:.18}
-.hnotif{position:absolute;left:300px;top:80px;width:328px;z-index:3;box-shadow:0 9.5px 14px rgba(0,0,0,.12);border:0!important;border-radius:19px!important}
+.hnotif{position:absolute;left:300px;top:80px;width:328px;z-index:3;box-shadow:0 9.5px 28.5px rgba(0,0,0,.12);border-radius:19px!important}
 .hmascot{position:absolute;left:450px;top:520px;z-index:3}
 
 /* Notification */
 .notif{display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:14px 16px;text-align:left}
-.notif .app{width:42px;height:42px;border-radius:10px;display:grid;place-items:center;flex:none}
-.notif .app img{width:30px;height:24px}
+.notif .app{width:42px;height:42px;border-radius:10px;display:grid;place-items:center;flex:none;background:linear-gradient(135deg,var(--signature-top),var(--signature))}
+.notif .app img{width:37px;height:30px}
 .notif .txt{flex:1;min-width:0;font-size:15px;line-height:1.4}
 .notif .row{display:flex;justify-content:space-between;gap:8px;margin-bottom:2px}
 .notif .row b{font-size:14px}
 .notif .row time{font-size:13px;color:var(--muted)}
-.hnotif .app{width:40px;height:40px}
+.hnotif .app{width:40px;height:40px;border-radius:9.5px}
+.hnotif .app img{width:35px;height:28px}
 .hnotif .row b{font-size:13.3px}
 .hnotif .row time{font-size:12.35px}
 .hnotif .txt{font-size:14.25px}
@@ -169,7 +170,7 @@ button,select{font:inherit;color:inherit}
 .tile .shape{width:134px;height:134px;right:25px;bottom:25px}
 
 /* Et aussi */
-.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;align-items:start}
+.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;align-items:stretch}
 .col{background:var(--bg);border-radius:32px;padding:36px;display:flex;flex-direction:column;gap:24px;box-shadow:var(--shadow)}
 .col>h3{font-size:26px;line-height:1.25;text-align:center}
 .col>p{text-align:center;color:var(--muted);margin-top:-12px}
