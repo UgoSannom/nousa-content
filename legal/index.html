@@ -1,26 +1,13 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Nousa · Legal</title><meta name="color-scheme" content="light dark">
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@800&family=Figtree:wght@400;700&display=swap" rel="stylesheet">
-<style>
-:root{--bg:#FFF5F7;--card:#FFFFFF;--text:#2A1420;--muted:#6B4E5C;--accent:#C43661;--line:#F2D6DF}
-@media (prefers-color-scheme:dark){:root{--bg:#1A0D14;--card:#24131C;--text:#FBEFF3;--muted:#C9AEBB;--accent:#F48BAA;--line:#3D2430}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 Figtree,system-ui,-apple-system,sans-serif}
-main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
-header{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:8px}
-.brand{font-family:"Bricolage Grotesque",Figtree,sans-serif;font-weight:800;font-size:22px;color:var(--accent);text-decoration:none}
-nav.langs{font-size:14px}
-nav.langs a{color:var(--muted);margin-left:10px;text-decoration:none}
-nav.langs a[aria-current]{color:var(--accent);font-weight:700}
-h1{hyphens:auto;overflow-wrap:break-word;font-family:"Bricolage Grotesque",Figtree,sans-serif;font-size:32px;line-height:1.15;margin:24px 0 8px}
-h2{font-size:20px;margin:32px 0 8px}
-a{color:var(--accent)}
-table{width:100%;border-collapse:collapse;margin:12px 0;font-size:15px;background:var(--card);border-radius:12px;overflow:hidden;display:block;overflow-x:auto}
-th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
-th{font-weight:700}
-footer{margin-top:48px;font-size:14px;color:var(--muted)}
-footer a{color:var(--muted);margin-right:14px}
-.todo{background:#FFE08A;color:#2A1420;padding:0 4px;border-radius:4px}
-</style></head>
-<body><main><header><span class="brand">Nousa</span></header><h1>Nousa: Couple Questions</h1><h2>English</h2><p><a href="en/privacy.html">Privacy</a> · <a href="en/terms.html">Terms</a> · <a href="en/support.html">Help</a></p><h2>Français</h2><p><a href="fr/privacy.html">Confidentialité</a> · <a href="fr/terms.html">Conditions</a> · <a href="fr/support.html">Aide</a></p><h2>Español</h2><p><a href="es/privacy.html">Privacidad</a> · <a href="es/terms.html">Condiciones</a> · <a href="es/support.html">Ayuda</a></p><h2>Português (Brasil)</h2><p><a href="pt-BR/privacy.html">Privacidade</a> · <a href="pt-BR/terms.html">Termos</a> · <a href="pt-BR/support.html">Ajuda</a></p><h2>Deutsch</h2><p><a href="de/privacy.html">Datenschutz</a> · <a href="de/terms.html">Nutzungsbedingungen</a> · <a href="de/support.html">Hilfe</a></p><h2>Italiano</h2><p><a href="it/privacy.html">Privacy</a> · <a href="it/terms.html">Condizioni</a> · <a href="it/support.html">Assistenza</a></p></main></body></html>
+<title>Nousa</title><meta name="color-scheme" content="light dark"><link rel="alternate" hreflang="en" href="https://nousa.hugodelseaux.fr/en/"><link rel="alternate" hreflang="fr" href="https://nousa.hugodelseaux.fr/fr/"><link rel="alternate" hreflang="es" href="https://nousa.hugodelseaux.fr/es/"><link rel="alternate" hreflang="pt-BR" href="https://nousa.hugodelseaux.fr/pt-BR/"><link rel="alternate" hreflang="de" href="https://nousa.hugodelseaux.fr/de/"><link rel="alternate" hreflang="it" href="https://nousa.hugodelseaux.fr/it/">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css">
+<script>
+(function(){var L=["en","fr","es","pt-BR","de","it"],c=null;
+try{c=localStorage.getItem("nousa-lang")}catch(e){}
+if(L.indexOf(c)<0){c="en";var n=navigator.languages||[navigator.language||""];
+for(var i=0;i<n.length;i++){var x=(n[i]||"").toLowerCase();if(x.indexOf("pt")===0){c="pt-BR";break}
+var b=x.split("-")[0];if(L.indexOf(b)>=0){c=b;break}}}
+location.replace("/"+c+"/");})();
+</script></head>
+<body><main class="wrap lost"><img src="/assets/img/mascotte-coeur.svg" alt="" width="200" height="160"><h1>Nousa</h1><p><a href="/en/" hreflang="en">English</a> · <a href="/fr/" hreflang="fr">Français</a> · <a href="/es/" hreflang="es">Español</a> · <a href="/pt-BR/" hreflang="pt-BR">Português (BR)</a> · <a href="/de/" hreflang="de">Deutsch</a> · <a href="/it/" hreflang="it">Italiano</a></p></main></body></html>

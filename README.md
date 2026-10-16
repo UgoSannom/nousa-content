@@ -1,10 +1,13 @@
 # nousa-content
 
-Contenu public de l'app Nousa, servi par GitHub Pages.
+Site vitrine et contenu public de l'app Nousa, servi par Cloudflare Workers (fichiers statiques) sur https://nousa.hugodelseaux.fr.
 
 | Dossier | Contenu |
 |---|---|
-| `legal/` | Politique de confidentialité, conditions d'utilisation et page d'aide, en 6 langues |
+| `index.html` | Redirige vers la langue du navigateur (ou celle choisie avant) |
+| `<lang>/` | Accueil du site, en 6 langues (en, fr, es, pt-BR, de, it) |
+| `legal/<lang>/` | Aide (`support.html`), confidentialité, conditions et mentions légales (`notice.html`) |
+| `assets/` | Styles, polices auto-hébergées (licence OFL), images |
 | `packs/` | Packs de questions mensuels (JSON), téléchargés par l'app |
 
-Les pages légales sont générées depuis le dossier du projet (`legal/build.py`). Ne pas les modifier à la main.
+Toutes les pages HTML sont générées depuis le dossier du projet (`site/build.py`, textes dans `site/i18n/` et `legal/src/`). Ne pas les modifier à la main.
