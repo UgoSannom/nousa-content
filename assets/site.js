@@ -5,10 +5,33 @@ document.querySelectorAll("select[data-lang]").forEach(function (s) {
     location.href = s.options[s.selectedIndex].getAttribute("data-href") + location.hash;
   });
 });
-// Menu mobile : se referme après un clic sur un lien.
-document.querySelectorAll(".menu a").forEach(function (a) {
-  a.addEventListener("click", function () { a.closest("details").removeAttribute("open"); });
-});
+// Menu mobile : ouverture et fermeture animées, se referme au clic sur un lien, à côté ou avec Échap.
+(function () {
+  var menu = document.querySelector(".menu");
+  if (!menu) return;
+  var summary = menu.querySelector("summary"), panel = menu.querySelector(".panel");
+  var veil = document.createElement("div");
+  veil.className = "menu-veil";
+  document.body.appendChild(veil);
+  var reduce = matchMedia("(prefers-reduced-motion: reduce)").matches, timer;
+  function open() {
+    clearTimeout(timer);
+    menu.setAttribute("open", "");
+    requestAnimationFrame(function () { requestAnimationFrame(function () { menu.classList.add("is-open"); veil.classList.add("on"); }); });
+  }
+  function close() {
+    menu.classList.remove("is-open");
+    veil.classList.remove("on");
+    timer = setTimeout(function () { menu.removeAttribute("open"); }, reduce ? 0 : 450);
+  }
+  summary.addEventListener("click", function (e) {
+    e.preventDefault();
+    menu.classList.contains("is-open") ? close() : open();
+  });
+  veil.addEventListener("click", close);
+  panel.querySelectorAll("a").forEach(function (a) { a.addEventListener("click", close); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && menu.classList.contains("is-open")) close(); });
+})();
 // Sommaire des pages légales : surligne la section en cours de lecture.
 (function () {
   var links = [].slice.call(document.querySelectorAll(".toc a"));
