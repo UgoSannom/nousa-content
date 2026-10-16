@@ -1,0 +1,189 @@
+{
+ "id": "pack-01",
+ "lang": "es",
+ "version": 1,
+ "title": "Noches acogedoras",
+ "description": "30 preguntas para noches tranquilas en pareja.",
+ "questions": [
+  {
+   "id": "p01-001",
+   "intensity": "light",
+   "text": "¿Qué hace que una velada sea de verdad acogedora para ti?",
+   "hook": "El refugio perfecto"
+  },
+  {
+   "id": "p01-002",
+   "intensity": "light",
+   "text": "¿Chocolate caliente, infusión o algo distinto en una noche fresca?",
+   "hook": "Bebidas calentitas"
+  },
+  {
+   "id": "p01-003",
+   "intensity": "playful",
+   "text": "¿Qué películas pondríamos en nuestra noche ideal de sofá y manta?",
+   "hook": "Cartelera casera"
+  },
+  {
+   "id": "p01-004",
+   "intensity": "deep",
+   "text": "¿Qué recuerdo acogedor todavía te calienta el corazón?",
+   "hook": "Recuerdos al calor"
+  },
+  {
+   "id": "p01-005",
+   "intensity": "light",
+   "text": "¿Cuál es tu olor favorito en un día de lluvia?",
+   "hook": "Olor a lluvia"
+  },
+  {
+   "id": "p01-006",
+   "intensity": "deep",
+   "text": "¿Qué te da calma al final de una semana larga?",
+   "hook": "La calma del viernes"
+  },
+  {
+   "id": "p01-007",
+   "intensity": "playful",
+   "text": "Si esta noche construyéramos un fuerte de cojines, ¿qué haríamos dentro?",
+   "hook": "Refugio improvisado"
+  },
+  {
+   "id": "p01-008",
+   "intensity": "light",
+   "text": "¿Qué película reconfortante podrías ver cien veces?",
+   "hook": "Películas de cabecera"
+  },
+  {
+   "id": "p01-009",
+   "intensity": "deep",
+   "text": "¿Qué significa para ti «sentirte en casa» en una noche tranquila?",
+   "hook": "Hogar, dulce hogar"
+  },
+  {
+   "id": "p01-010",
+   "intensity": "light",
+   "text": "¿A qué juego de mesa o de cartas te gustaría jugar esta noche?",
+   "hook": "Noche de juegos"
+  },
+  {
+   "id": "p01-011",
+   "intensity": "playful",
+   "text": "¿Qué serviríamos en nuestro propio «café refugio»?",
+   "hook": "Nuestro café refugio"
+  },
+  {
+   "id": "p01-012",
+   "intensity": "deep",
+   "text": "¿En qué aspecto te gustaría ir más despacio en esta etapa?",
+   "hook": "Elogio de la lentitud"
+  },
+  {
+   "id": "p01-013",
+   "intensity": "light",
+   "text": "¿Velas, lucecitas o una chimenea encendida?",
+   "hook": "Luces suaves"
+  },
+  {
+   "id": "p01-014",
+   "intensity": "deep",
+   "text": "¿Qué historia te gustaría que te leyera?",
+   "hook": "Léeme un cuento"
+  },
+  {
+   "id": "p01-015",
+   "intensity": "playful",
+   "text": "¿Cómo son tus calcetines más calentitos?",
+   "hook": "Pies calentitos"
+  },
+  {
+   "id": "p01-016",
+   "intensity": "light",
+   "text": "¿Qué receta te gustaría que cocináramos en una noche sin prisas?",
+   "hook": "Recetas sin prisa"
+  },
+  {
+   "id": "p01-017",
+   "intensity": "deep",
+   "text": "¿Qué momento conmigo te da más paz?",
+   "hook": "Momentos de paz"
+  },
+  {
+   "id": "p01-018",
+   "intensity": "light",
+   "text": "¿Cuál es tu sonido favorito en una noche tranquila?",
+   "hook": "Sonidos de la noche"
+  },
+  {
+   "id": "p01-019",
+   "intensity": "playful",
+   "text": "Si esta noche fuera una escena de película, ¿qué música sonaría?",
+   "hook": "Música para esta noche"
+  },
+  {
+   "id": "p01-020",
+   "intensity": "deep",
+   "text": "¿Qué preocupación te gustaría dejar en la puerta esta noche?",
+   "hook": "Dejarlo fuera"
+  },
+  {
+   "id": "p01-021",
+   "intensity": "light",
+   "text": "¿Qué es lo que más te gusta de las noches de lluvia?",
+   "hook": "Noches de lluvia"
+  },
+  {
+   "id": "p01-022",
+   "intensity": "deep",
+   "text": "¿Por qué pequeño momento de esta semana sientes gratitud?",
+   "hook": "Gracias, semana"
+  },
+  {
+   "id": "p01-023",
+   "intensity": "playful",
+   "text": "¿Cuál es el lugar más acogedor donde has dormido una siesta?",
+   "hook": "Siestas memorables"
+  },
+  {
+   "id": "p01-024",
+   "intensity": "light",
+   "text": "Esta noche, ¿prefieres que hablemos o que disfrutemos de un silencio cómplice?",
+   "hook": "¿Hablar o callar?"
+  },
+  {
+   "id": "p01-025",
+   "intensity": "deep",
+   "text": "¿Qué te hace sentir que alguien cuida de ti?",
+   "hook": "En buenas manos"
+  },
+  {
+   "id": "p01-026",
+   "intensity": "playful",
+   "text": "Si hibernáramos una semana, ¿qué nos llevaríamos?",
+   "hook": "Kit de hibernación"
+  },
+  {
+   "id": "p01-027",
+   "intensity": "light",
+   "text": "¿Qué canción te abriga como una manta calentita?",
+   "hook": "Canciones que abrigan"
+  },
+  {
+   "id": "p01-028",
+   "intensity": "deep",
+   "text": "¿Qué te gustaría decirme esta noche que no me hayas dicho esta semana?",
+   "hook": "Palabras de esta noche"
+  },
+  {
+   "id": "p01-029",
+   "intensity": "playful",
+   "text": "Inventa un nombre para nuestra próxima noche de refugio.",
+   "hook": "Bautizar la velada"
+  },
+  {
+   "id": "p01-030",
+   "intensity": "deep",
+   "text": "¿Cómo sería nuestra noche tranquila perfecta, de principio a fin?",
+   "hook": "La velada perfecta"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "packs": [
+    { "id": "pack-01", "available": "2026-10-01" }
+  ]
+}
